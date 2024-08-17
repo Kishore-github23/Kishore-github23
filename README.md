@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishorekumar J
-- 👀 I’m interested in Coding...
+- 👀 Interested in Coding...
 - 🌱 Skills in - JAVA,PYTHON,Machine learning,HTML,CSS...!
 
 <!---
