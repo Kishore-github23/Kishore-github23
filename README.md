@@ -14,7 +14,8 @@ Continuously improve and expand my coding skills
 Contribute to open-source projects and collaborate with other developers
 Explore new technologies and advancements in machine learning and web development
 
-📫 Get in Touch:
+📫 Get in Touch
+
 LinkedIn - https://www.linkedin.com/in/kishorekumar-j-05bab21aa/
 
 Email - kishorekumarjothikumar@gmail.com
