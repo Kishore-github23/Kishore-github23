@@ -4,7 +4,9 @@ I am a passionate and dedicated software developer with a strong interest in cod
 
 🌟 Skills and Expertise:
 Programming Languages: Java, Python
+
 Web Development: HTML, CSS
+
 Machine Learning: Applied knowledge in developing machine learning models and algorithms
 
 🚀 What I’m Currently Working On
