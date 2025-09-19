@@ -6,7 +6,7 @@ I am a passionate and dedicated software developer with a strong interest in cod
 
 Programming Languages: Java, Python
 
-Web Development: HTML, CSS
+Web Development: HTML, CSS, Typescript, Angular
 
 Machine Learning: Applied knowledge in developing machine learning models and algorithms
 
