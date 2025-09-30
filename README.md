@@ -11,11 +11,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kishore-github23](https://github.com/Kishore-github23)
 
+- 📝 I regularly write articles on [https://www.linkedin.com/pulse/building-interactive-ui-components-angular-my-internship-j-iro9c](https://www.linkedin.com/pulse/building-interactive-ui-components-angular-my-internship-j-iro9c)
+
 - 💬 Ask me about **Java, Angular, Typescript, HTML and CSS**
 
 - 📫 How to reach me **iamkishorekumar.dev@gmail.com**
 
 - 📄 Know about my experiences [https://kishore-github23.github.io/My-portfolio/](https://kishore-github23.github.io/My-portfolio/)
+
+- ⚡ Fun fact **Java is one of the few programming languages that has stayed in the top 3 most popular languages for over 20 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
