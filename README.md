@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Task Manager (Spring Boot + Angular + MySQL)](https://github.com/Kishore-github23/task-manager)
 
-- 🌱 I’m currently learning **Javascript, React, Advanced Java**
+- 🌱 I’m currently learning **Javascript, React, Advanced Java, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kishore-github23](https://github.com/Kishore-github23)
 
