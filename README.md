@@ -1,10 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Kishorekumar J</h1>
 <h3 align="center">Passionate software developer with a love for coding and technology. Always learning, building, and exploring new possibilities. Tech Stack: Java, Spring Boot, Python, C, C++ | HTML, CSS, Angular, Javascript ML Enthusiast: Building models & algorithms Current Focus: Full stack development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishore-github23&label=Profile%20views&color=0e75b6&style=flat" alt="kishore-github23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishore-github23" alt="kishore-github23" /></a> </p>
-
 - 🔭 I’m currently working on [Task Manager (Spring Boot + Angular + MySQL)](https://github.com/Kishore-github23/task-manager)
 
 - 🌱 I’m currently learning **Javascript, React, Advanced Java, Python**
